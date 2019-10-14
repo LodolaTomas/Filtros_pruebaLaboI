@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1570681347 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/actor.c
+	"actor.h"
+
+1570680505 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/actor.h
+	"inputs.h"
+
+1570681347 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1571078813 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/elenco.c
+	"elenco.h"
+
+1570681089 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/elenco.h
+	"actor.h"
+	"pelicula.h"
+
+1570680505 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/pelicula.h
+	"inputs.h"
+	"genero.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1570680505 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/genero.h
+	<string.h>
+
+1570681346 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/genero.c
+	"genero.h"
+
+1570681347 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/inputs.c
+	"inputs.h"
+
+1570681347 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/pelicula.c
+	"pelicula.h"
+
+1571085695 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/Filtros.c
+	"Filtros.h"
+
+1571082894 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/Filtros.h
+	<stdio.h>
+	<stdlib.h>
+	"elenco.h"
+
+1571085082 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filtros.h"
+
+1571070905 source:/home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/fecha.c
+	"fecha.h"
+
+1571070876 /home/tomas/Escritorio/Lodolatomas/labo_FiltrosBeta/fecha.h
+	"inputs.h"
+
